@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>				
+    <script src="https://glottolog.org/clld-static/js/raphael.min.js"></script>
+    <script src="https://glottolog.org/clld-static/js/jsphylosvg.min.js"></script>
+			
+</head>
+<body>
+<div id="svgCanvas"> </div>
+<script type="text/javascript">
+    $(document).ready(function(){
+        Smits.PhyloCanvas.Render.Parameters.Rectangular.alignRight = true;
+        Smits.PhyloCanvas.Render.Parameters.Rectangular.alignPadding = 250;
+        Smits.PhyloCanvas.Render.Parameters.Rectangular.bufferX = 500;
+        Smits.PhyloCanvas.Render.Parameters.Rectangular.minHeightBetweenLeaves = 5;
+        Smits.PhyloCanvas.Render.Style.text["font-size"] = 16;
+        Smits.PhyloCanvas.Render.Style.text["font-family"] = 'Helvetica';
+        //$.get("https://glottolog.org/static/trees/tree-ndon1253-phylo.xml", function(data) {
+        $.get("download.xml", function(data) {
+            var dataObject = {
+                xml: data,
+                fileSource: true
+            };
+            phylocanvas = new Smits.PhyloCanvas(
+                dataObject,
+                'svgCanvas',
+                1000, 175//,
+                //'circular'
+            );
+
+            var svgSource = phylocanvas.getSvgSource();
+            if(svgSource){
+                $('#download-link')[0].href = "data:image/svg+xml," + encodeURIComponent(svgSource);
+            }
+        });
+    });
+</script>
+</body>
+</html>	

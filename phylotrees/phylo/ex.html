@@ -1,0 +1,21 @@
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <link rel="stylesheet" href="phyd3.css" />
+    <script src="phyd3.js"></script>
+    <script>
+        function load() {
+            d3.xml("sample.xml", function(xml) {
+                var tree = phyd3.phyloxml.parse(xml);
+                phyd3.phylogram.build("#phyd3", tree, {});
+            });
+        };
+    </script>
+    </head>
+    <body onload="load()">
+        <div id="phyd3"></div>
+    </body>
+</html>

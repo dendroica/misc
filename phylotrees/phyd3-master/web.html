@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!--base href="/home/jess/Documents/phyd3-master/"-->
+<script src="https://d3js.org/d3.v3.min.js"></script>
+</head>
+<body>
+<div id="phyd3-root"></div>
+<script type="importmap"> 
+    {
+      "imports": {
+        "d3-time-format": "https://cdn.skypack.dev/d3-time-format",
+        "d3-hierarchy": "https://cdn.skypack.dev/d3-hierarchy",
+        "d3-selection": "https://cdn.skypack.dev/d3-selection",
+        "d3-brush": "https://cdn.skypack.dev/d3-brush",
+        "d3-dsv": "https://cdn.skypack.dev/d3-dsv",
+        "d3-drag": "https://cdn.skypack.dev/d3-drag",
+        "d3-scale": "https://cdn.skypack.dev/d3-scale",
+        "d3-transition": "https://cdn.skypack.dev/d3-transition",
+        "d3-axis": "https://cdn.skypack.dev/d3-axis",
+        "d3-ease": "https://cdn.skypack.dev/d3-ease",
+        "d3-interpolate": "https://cdn.skypack.dev/d3-interpolate",
+        "d3-shape": "https://cdn.skypack.dev/d3-shape",
+        "d3-zoom": "https://cdn.skypack.dev/d3-zoom"
+      }
+    }
+</script>
+<script type="module">
+import { makeCompatTable, phyloxml } from "./node_modules/@vibbioinfocore/phyd3-parser-compat/dist/index.js";
+import { build } from "./node_modules/@vibbioinfocore/phyd3/dist/index.js";
+
+window.addEventListener('load', () => {
+	d3.xml("euteleostomi.xml", function(text) {
+    		const svg = build(makeCompatTable(phyloxml.parse(text)), {});
+    		svg.attr("width", 1000);
+    		document.querySelector("#phyd3-root").appendChild(svg.node());
+	});
+});
+</script>
+
+</body>
+</html>

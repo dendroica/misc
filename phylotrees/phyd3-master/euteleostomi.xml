@@ -1,0 +1,3298 @@
+<phyloxml xmlns="http://www.phyloxml.org">
+	<phylogeny rerootable="false" rooted="true">
+		<name>(Partial) species phylogeny of our tagged animals</name>
+		<clade>
+			<taxonomy>
+				<id provider="uniprot">6656</id>
+				<scientific_name>Arthropoda</scientific_name>
+			</taxonomy>
+			<clade>
+				<taxonomy>
+					<id provider="uniprot">316456</id>
+					<code>ANASP</code>
+					<scientific_name>Anabrus simplex</scientific_name>
+				</taxonomy>
+			</clade>
+			<clade>
+				<taxonomy>
+					<code>VESMA</code>
+					<scientific_name>Vespa mandarina</scientific_name>
+				</taxonomy>
+			</clade>
+		</clade>
+		<clade>
+			<taxonomy>
+				<id provider="uniprot">117571</id>
+				<scientific_name>Chordata</scientific_name>
+			</taxonomy>
+			<clade>
+				<taxonomy>
+					<id provider="uniprot">7849</id>
+					<code>LAMNA</code>
+					<scientific_name>Lamna nasus</scientific_name>
+				</taxonomy>
+			</clade>
+			<clade>
+				<taxonomy>
+					<id provider="uniprot">8287</id>
+					<scientific_name>Tetrapodomorpha</scientific_name>
+				</taxonomy>
+				<clade>
+					<taxonomy>
+						<id provider="uniprot">32523</id>
+						<scientific_name>Tetrapoda</scientific_name>
+					</taxonomy>
+					<clade>
+						<taxonomy>
+							<id provider="uniprot">8342</id>
+							<scientific_name>Anura</scientific_name>
+						</taxonomy>
+						<clade>
+							<taxonomy>
+								<id provider="uniprot">47553</id>
+								<code>ANAPU</code>
+								<scientific_name>Anaxyrus punctatus</scientific_name>
+							</taxonomy>
+						</clade>
+						<clade>
+							<taxonomy>
+								<id provider="uniprot">30326</id>
+								<code>EPICL</code>
+								<scientific_name>Epidalea calamita</scientific_name>
+							</taxonomy>
+						</clade>
+					</clade>
+					<clade>
+						<taxonomy>
+							<id provider="uniprot">32524</id>
+							<scientific_name>Amniota</scientific_name>
+						</taxonomy>
+						<clade>
+							<taxonomy>
+								<id provider="uniprot">32561</id>
+								<scientific_name>Sauria</scientific_name>
+							</taxonomy>
+							<clade>
+								<taxonomy>
+									<id provider="uniprot">8504</id>
+									<scientific_name>Lepidosauria</scientific_name>
+								</taxonomy>
+								<clade>
+									<taxonomy>
+										<id provider="uniprot">1329912</id>
+										<scientific_name>Episquamata</scientific_name>
+									</taxonomy>
+									<clade>
+										<taxonomy>
+											<id provider="uniprot">1329911</id>
+											<scientific_name>Toxicofera</scientific_name>
+										</taxonomy>
+										<clade>
+											<taxonomy>
+												<id provider="uniprot">8570</id>
+												<scientific_name>Serpentes</scientific_name>
+											</taxonomy>
+											<clade>
+												<taxonomy>
+													<scientific_name>Colubridae</scientific_name>
+												</taxonomy>
+												<clade>
+													<taxonomy>
+														<id provider="uniprot">648198</id>
+														<code>PANSP</code>
+														<scientific_name>Pantherophis spiloides</scientific_name>
+													</taxonomy>
+												</clade>
+												<clade>
+													<taxonomy>
+														<id provider="uniprot">92519</id>
+														<code>BOIIR</code>
+														<scientific_name>Boiga irregularis</scientific_name>
+													</taxonomy>
+												</clade>
+												<clade>
+													<taxonomy>
+														<id provider="uniprot">859256</id>
+														<code>DRYCO</code>
+														<scientific_name>Drymarchon couperi</scientific_name>
+													</taxonomy>
+												</clade>
+											</clade>
+											<clade>
+												<taxonomy>
+													<id provider="uniprot">8721</id>
+													<code>9SAUR</code>
+													<scientific_name>Bothrops</scientific_name>
+												</taxonomy>
+											</clade>
+										</clade>
+										<clade>
+											<taxonomy>
+												<id provider="uniprot">8511</id>
+												<scientific_name>Iguania</scientific_name>
+											</taxonomy>
+											<clade>
+												<taxonomy>
+													<id provider="uniprot">475046</id>
+													<code>GAMSI</code>
+													<scientific_name>Gambelia sila</scientific_name>
+												</taxonomy>
+											</clade>
+											<clade>
+												<taxonomy>
+													<id provider="uniprot">43610</id>
+													<code>PHRCO</code>
+													<scientific_name>Phrynosoma cornutum</scientific_name>
+												</taxonomy>
+											</clade>
+										</clade>
+									</clade>
+								</clade>
+							</clade>
+							<clade>
+								<taxonomy>
+									<id provider="uniprot">1329799</id>
+									<scientific_name>Archelosauria</scientific_name>
+								</taxonomy>
+								<clade>
+									<taxonomy>
+										<id provider="uniprot">8464</id>
+										<scientific_name>Cryptodira</scientific_name>
+									</taxonomy>
+									<clade>
+										<taxonomy>
+											<id provider="uniprot">8486</id>
+											<scientific_name>Testudinoidea</scientific_name>
+										</taxonomy>
+										<clade>
+											<taxonomy>
+												<scientific_name>Testuguria</scientific_name>
+											</taxonomy>
+											<clade>
+												<taxonomy>
+													<id provider="uniprot">38773</id>
+													<code>GOPPO</code>
+													<scientific_name>Gopherus polyphemus</scientific_name>
+												</taxonomy>
+											</clade>
+										</clade>
+										<clade>
+											<taxonomy>
+												<scientific_name>Emysternia</scientific_name>
+											</taxonomy>
+											<clade>
+												<taxonomy>
+													<scientific_name>Emydinae</scientific_name>
+												</taxonomy>
+												<clade>
+													<taxonomy>
+														<id provider="uniprot">85608</id>
+														<code>CLEGU</code>
+														<scientific_name>Clemmys guttata</scientific_name>
+													</taxonomy>
+												</clade>
+												<clade>
+													<taxonomy>
+														<scientific_name>Glyptemis</scientific_name>
+													</taxonomy>
+													<clade>
+														<taxonomy>
+															<id provider="uniprot">335392</id>
+															<code>GLYIN</code>
+															<scientific_name>Glyptemys insculpta</scientific_name>
+														</taxonomy>
+													</clade>
+													<clade>
+														<taxonomy>
+															<id provider="uniprot">335393</id>
+															<code>GLYMU</code>
+															<scientific_name>Glyptemys muhlenbergii</scientific_name>
+														</taxonomy>
+													</clade>
+												</clade>
+												<clade>
+													<taxonomy>
+														<scientific_name>Terrapene</scientific_name>
+													</taxonomy>
+													<clade>
+														<taxonomy>
+															<id provider="uniprot">391345</id>
+															<code>TERCA</code>
+															<scientific_name>Terrapene carolina carolina</scientific_name>
+														</taxonomy>
+													</clade>
+													<clade>
+														<taxonomy>
+															<id provider="uniprot">85611</id>
+															<code>TEROR</code>
+															<scientific_name>Terrapene ornata</scientific_name>
+														</taxonomy>
+													</clade>
+												</clade>
+											</clade>
+											<clade>
+												<taxonomy>
+													<scientific_name>Deirochelyinae</scientific_name>
+												</taxonomy>
+												<clade>
+													<taxonomy>
+														<id provider="uniprot">8485</id>
+														<code>MALTE</code>
+														<scientific_name>Malaclemys terrapin</scientific_name>
+													</taxonomy>
+												</clade>
+												<clade>
+													<taxonomy>
+														<id provider="uniprot">8478</id>
+														<code>CHRPI</code>
+														<scientific_name>Chrysemys picta bellii</scientific_name>
+													</taxonomy>
+												</clade>
+											</clade>
+										</clade>
+									</clade>
+								</clade>
+								<clade>
+									<taxonomy>
+										<id provider="uniprot">8492</id>
+										<scientific_name>Archosauria</scientific_name>
+									</taxonomy>
+									<clade>
+										<taxonomy>
+											<id provider="uniprot">8825</id>
+											<scientific_name>Neognathae</scientific_name>
+										</taxonomy>
+										<clade>
+											<taxonomy>
+												<id provider="uniprot">1549675</id>
+												<scientific_name>Galloanserae</scientific_name>
+											</taxonomy>
+											<clade>
+												<taxonomy>
+													<scientific_name>Galliformes</scientific_name>
+												</taxonomy>
+												<clade>
+													<taxonomy>
+														<code>ORTCO</code>
+														<scientific_name>Ortalis columbiana</scientific_name>
+													</taxonomy>
+												</clade>
+												<clade>
+													<taxonomy>
+														<scientific_name>Odontophoridae</scientific_name>
+													</taxonomy>
+													<clade>
+														<taxonomy>
+															<id provider="uniprot">9014</id>
+															<code>COLVI</code>
+															<scientific_name>Colinus virginianus</scientific_name>
+														</taxonomy>
+													</clade>
+													<clade>
+														<taxonomy>
+															<id provider="uniprot">9009</id>
+															<code>CALSU</code>
+															<scientific_name>Callipepla squamata</scientific_name>
+														</taxonomy>
+													</clade>
+												</clade>
+												<clade>
+													<taxonomy>
+														<id provider="uniprot">9005</id>
+														<scientific_name>Phasianidae</scientific_name>
+													</taxonomy>
+													<clade>
+														<taxonomy>
+															<id provider="uniprot">9072</id>
+															<scientific_name>Phasianinae</scientific_name>
+														</taxonomy>
+														<clade>
+															<taxonomy>
+																<scientific_name>Tetraonini</scientific_name>
+															</taxonomy>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">52650</id>
+																	<code>LAGLG</code>
+																	<scientific_name>Lagopus lagopus</scientific_name>
+																</taxonomy>
+															</clade>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">9103</id>
+																	<code>MELGA</code>
+																	<scientific_name>Meleagris gallopavo</scientific_name>
+																</taxonomy>
+															</clade>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">83287</id>
+																	<code>TYMPH</code>
+																	<scientific_name>Tympanuchus phasianellus</scientific_name>
+																</taxonomy>
+															</clade>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">9002</id>
+																	<code>CENUR</code>
+																	<scientific_name>Centrocercus urophasianus</scientific_name>
+																</taxonomy>
+															</clade>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">9022</id>
+																<code>PTEER</code>
+																<scientific_name>Pternistis erckelii</scientific_name>
+															</taxonomy>
+														</clade>
+													</clade>
+												</clade>
+											</clade>
+											<clade>
+												<taxonomy>
+													<scientific_name>Anseriformes</scientific_name>
+												</taxonomy>
+												<clade>
+													<taxonomy>
+														<scientific_name>Dendrocygninae</scientific_name>
+													</taxonomy>
+													<clade>
+														<taxonomy>
+															<id provider="uniprot">8871</id>
+															<code>DENAR</code>
+															<scientific_name>Dendrocygna arborea</scientific_name>
+														</taxonomy>
+													</clade>
+												</clade>
+												<clade>
+													<taxonomy>
+														<scientific_name>Anserinae</scientific_name>
+													</taxonomy>
+													<clade>
+														<taxonomy>
+															<scientific_name>Branta</scientific_name>
+														</taxonomy>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">184712</id>
+																<code>BRABN</code>
+																<scientific_name>Branta bernicla</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">371860</id>
+																<code>9AVES</code>
+																<scientific_name>Branta hutchinsii</scientific_name>
+															</taxonomy>
+														</clade>
+													</clade>
+													<clade>
+														<taxonomy>
+															<scientific_name>Anser</scientific_name>
+														</taxonomy>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">107021</id>
+																<code>ANSCA</code>
+																<scientific_name>Anser canagicus</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">50365</id>
+																<code>ANSAL</code>
+																<scientific_name>Anser albifrons</scientific_name>
+															</taxonomy>
+														</clade>
+													</clade>
+												</clade>
+												<clade>
+													<taxonomy>
+														<scientific_name>Anatinae</scientific_name>
+													</taxonomy>
+													<clade>
+														<taxonomy>
+															<scientific_name>Anas</scientific_name>
+														</taxonomy>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">45631</id>
+																<code>ANACS</code>
+																<scientific_name>Anas castanea</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">28680</id>
+																<code>ANAAC</code>
+																<scientific_name>Anas acuta</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">8839</id>
+																<scientific_name>Anas platyrhynchos</scientific_name>
+															</taxonomy>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">8840</id>
+																	<code>ANAPP</code>
+																	<scientific_name>Anas platyrhynchos platyrhynchos</scientific_name>
+																</taxonomy>
+															</clade>
+														</clade>
+													</clade>
+													<clade>
+														<taxonomy>
+															<id provider="uniprot">75832</id>
+															<code>MARAE</code>
+															<scientific_name>Mareca americana</scientific_name>
+														</taxonomy>
+													</clade>
+													<clade>
+														<taxonomy>
+															<id provider="uniprot">75842</id>
+															<code>SPADI</code>
+															<scientific_name>Spatula discors</scientific_name>
+														</taxonomy>
+													</clade>
+												</clade>
+											</clade>
+										</clade>
+										<clade>
+											<taxonomy>
+												<scientific_name>Neoaves</scientific_name>
+											</taxonomy>
+											<clade>
+												<taxonomy>
+													<scientific_name>Mirandornithes</scientific_name>
+												</taxonomy>
+												<clade>
+													<taxonomy>
+														<id provider="uniprot">9214</id>
+														<scientific_name>Phoenicopteriformes</scientific_name>
+													</taxonomy>
+													<clade>
+														<taxonomy>
+															<id provider="uniprot">435638</id>
+															<code>PHORS</code>
+															<scientific_name>Phoenicopterus roseus</scientific_name>
+														</taxonomy>
+													</clade>
+												</clade>
+											</clade>
+											<clade>
+												<taxonomy>
+													<scientific_name>Passerea</scientific_name>
+												</taxonomy>
+												<clade>
+													<taxonomy>
+														<scientific_name>Gruimorphae</scientific_name>
+													</taxonomy>
+													<clade>
+														<taxonomy>
+															<scientific_name>Charadriiformes</scientific_name>
+														</taxonomy>
+														<clade>
+															<taxonomy>
+																<scientific_name>Charadrii</scientific_name>
+															</taxonomy>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">50392</id>
+																	<code>CHAAL</code>
+																	<scientific_name>Charadrius alexandrinus</scientific_name>
+																</taxonomy>
+															</clade>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">279960</id>
+																	<code>HAEPI</code>
+																	<scientific_name>Haematopus palliatus</scientific_name>
+																</taxonomy>
+															</clade>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">2202208</id>
+																	<code>9CHAR</code>
+																	<scientific_name>Recurvirostra novaehollandiae</scientific_name>
+																</taxonomy>
+															</clade>
+														</clade>
+														<clade>
+															<taxonomy>
+																<scientific_name>Scolopaci</scientific_name>
+															</taxonomy>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">279957</id>
+																	<code>NUMAM</code>
+																	<scientific_name>Numenius americanus</scientific_name>
+																</taxonomy>
+															</clade>
+															<clade>
+																<taxonomy>
+																	<scientific_name>Calidris</scientific_name>
+																</taxonomy>
+																<clade>
+																	<taxonomy>
+																		<id provider="uniprot">198806</id>
+																		<code>CALPG</code>
+																		<scientific_name>Calidris pugnax</scientific_name>
+																	</taxonomy>
+																</clade>
+																<clade>
+																	<taxonomy>
+																		<id provider="uniprot">279961</id>
+																		<code>CALPU</code>
+																		<scientific_name>Calidris pusilla</scientific_name>
+																	</taxonomy>
+																</clade>
+																<clade>
+																	<taxonomy>
+																		<id provider="uniprot">227173</id>
+																		<code>CALCT</code>
+																		<scientific_name>Calidris canutus</scientific_name>
+																	</taxonomy>
+																</clade>
+																<clade>
+																	<taxonomy>
+																		<id provider="uniprot">8919</id>
+																		<code>CALAL</code>
+																		<scientific_name>Calidris alpina</scientific_name>
+																	</taxonomy>
+																</clade>
+																<clade>
+																	<taxonomy>
+																		<id provider="uniprot">279935</id>
+																		<code>CALMB</code>
+																		<scientific_name>Calidris minutilla</scientific_name>
+																	</taxonomy>
+																</clade>
+															</clade>
+															<clade>
+																<taxonomy>
+																	<scientific_name>Limnodromus</scientific_name>
+																</taxonomy>
+																<clade>
+																	<taxonomy>
+																		<id provider="uniprot">279949</id>
+																		<code>LIMGR</code>
+																		<scientific_name>Limnodromus griseus</scientific_name>
+																	</taxonomy>
+																</clade>
+																<clade>
+																	<taxonomy>
+																		<id provider="uniprot">16178</id>
+																		<code>LIMSC</code>
+																		<scientific_name>Limnodromus scolopaceus</scientific_name>
+																	</taxonomy>
+																</clade>
+															</clade>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">56299</id>
+																	<code>SCOMI</code>
+																	<scientific_name>Scolopax minor</scientific_name>
+																</taxonomy>
+															</clade>
+															<clade>
+																<taxonomy>
+																	<scientific_name>Tringa</scientific_name>
+																</taxonomy>
+																<clade>
+																	<taxonomy>
+																		<id provider="uniprot">161739</id>
+																		<code>TRIFA</code>
+																		<scientific_name>Tringa flavipes</scientific_name>
+																	</taxonomy>
+																</clade>
+																<clade>
+																	<taxonomy>
+																		<id provider="uniprot">279954</id>
+																		<code>TRISL</code>
+																		<scientific_name>Tringa solitaria</scientific_name>
+																	</taxonomy>
+																</clade>
+															</clade>
+														</clade>
+														<clade>
+															<taxonomy>
+																<scientific_name>Lari</scientific_name>
+															</taxonomy>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">555356</id>
+																	<code>THAMX</code>
+																	<scientific_name>Thalasseus maximus</scientific_name>
+																</taxonomy>
+															</clade>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">471862</id>
+																	<code>STEAI</code>
+																	<scientific_name>Sternula antillarum</scientific_name>
+																</taxonomy>
+															</clade>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">108405</id>
+																	<code>STEHI</code>
+																	<scientific_name>Sterna hirundo</scientific_name>
+																</taxonomy>
+															</clade>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">8912</id>
+																	<code>LARMA</code>
+																	<scientific_name>Larus marinus</scientific_name>
+																</taxonomy>
+															</clade>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">126683</id>
+																	<code>LARDE</code>
+																	<scientific_name>Larus delawarensis</scientific_name>
+																</taxonomy>
+															</clade>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">690715</id>
+																	<code>LARPI</code>
+																	<scientific_name>Larus pipixcan</scientific_name>
+																</taxonomy>
+															</clade>
+														</clade>
+													</clade>
+													<clade>
+														<taxonomy>
+															<scientific_name>Gruiformes</scientific_name>
+														</taxonomy>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">371915</id>
+																<code>LATJM</code>
+																<scientific_name>Laterallus jamaicensis</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">1977160</id>
+																<code>ANTCN</code>
+																<scientific_name>Antigone canadensis</scientific_name>
+															</taxonomy>
+														</clade>
+													</clade>
+												</clade>
+												<clade>
+													<taxonomy>
+														<scientific_name>Strisores</scientific_name>
+													</taxonomy>
+													<clade>
+														<taxonomy>
+															<id provider="uniprot">57400</id>
+															<code>ANTVO</code>
+															<scientific_name>Antrostomus vociferus</scientific_name>
+														</taxonomy>
+													</clade>
+													<clade>
+														<taxonomy>
+															<id provider="uniprot">8897</id>
+															<code>CHAPE</code>
+															<scientific_name>Chaetura pelagica</scientific_name>
+														</taxonomy>
+													</clade>
+													<clade>
+														<taxonomy>
+															<id provider="uniprot">190686</id>
+															<code>EUTAQ</code>
+															<scientific_name>Eutoxeres aquila</scientific_name>
+														</taxonomy>
+													</clade>
+												</clade>
+												<clade>
+													<taxonomy>
+														<scientific_name>Ardeae</scientific_name>
+													</taxonomy>
+													<clade>
+														<taxonomy>
+															<id provider="uniprot">97097</id>
+															<code>PHALP</code>
+															<scientific_name>Phaethon lepturus</scientific_name>
+														</taxonomy>
+													</clade>
+													<clade>
+														<taxonomy>
+															<scientific_name>Aequornithes</scientific_name>
+														</taxonomy>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">54024</id>
+																<code>THACA</code>
+																<scientific_name>Thalassarche cauta</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">9238</id>
+																<code>PYGAD</code>
+																<scientific_name>Pygoscelis adeliae</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">57662</id>
+																<code>SULSL</code>
+																<scientific_name>Sula sula</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">371920</id>
+																<code>PLAAJ</code>
+																<scientific_name>Platalea ajaja</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">302533</id>
+																<code>PLECB</code>
+																<scientific_name>Plegadis chihi</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">555323</id>
+																<code>PHIIN</code>
+																<scientific_name>Phimosus infuscatus</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">110681</id>
+																<code>EGRTH</code>
+																<scientific_name>Egretta thula</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">110668</id>
+																<code>BUBID</code>
+																<scientific_name>Bubulcus ibis</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">56074</id>
+																<code>EGRRU</code>
+																<scientific_name>Egretta rufescens</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">33618</id>
+																<code>PELER</code>
+																<scientific_name>Pelecanus erythrorhynchos</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">37043</id>
+																<code>PELOC</code>
+																<scientific_name>Pelecanus occidentalis</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">56069</id>
+																<code>PHAAI</code>
+																<scientific_name>Phalacrocorax auritus</scientific_name>
+															</taxonomy>
+														</clade>
+													</clade>
+												</clade>
+												<clade>
+													<taxonomy>
+														<scientific_name>Telluraves</scientific_name>
+													</taxonomy>
+													<clade>
+														<taxonomy>
+															<scientific_name>Accipitrimorphae</scientific_name>
+														</taxonomy>
+														<clade>
+															<taxonomy>
+																<scientific_name>Cathartiformes</scientific_name>
+															</taxonomy>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">33614</id>
+																	<code>CORAR</code>
+																	<scientific_name>Coragyps atratus</scientific_name>
+																</taxonomy>
+															</clade>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">43455</id>
+																	<code>CATAU</code>
+																	<scientific_name>Cathartes aura</scientific_name>
+																</taxonomy>
+															</clade>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">33616</id>
+																	<code>GYMCA</code>
+																	<scientific_name>Gymnogyps californianus</scientific_name>
+																</taxonomy>
+															</clade>
+														</clade>
+														<clade>
+															<taxonomy>
+																<scientific_name>Accipitriformes</scientific_name>
+															</taxonomy>
+															<clade>
+																<taxonomy>
+																	<scientific_name>Accipitridae</scientific_name>
+																</taxonomy>
+																<clade>
+																	<taxonomy>
+																		<scientific_name>Elaninae</scientific_name>
+																	</taxonomy>
+																	<clade>
+																		<taxonomy>
+																			<id provider="uniprot">156764</id>
+																			<code>ELALE</code>
+																			<scientific_name>Elanus leucurus</scientific_name>
+																		</taxonomy>
+																	</clade>
+																</clade>
+																<clade>
+																	<taxonomy>
+																		<scientific_name>Perninae</scientific_name>
+																	</taxonomy>
+																	<clade>
+																		<taxonomy>
+																			<id provider="uniprot">321078</id>
+																			<code>CHOUN</code>
+																			<scientific_name>Chondrohierax uncinatus</scientific_name>
+																		</taxonomy>
+																	</clade>
+																	<clade>
+																		<taxonomy>
+																			<id provider="uniprot">192873</id>
+																			<code>ELAFO</code>
+																			<scientific_name>Elanoides forficatus</scientific_name>
+																		</taxonomy>
+																	</clade>
+																</clade>
+																<clade>
+																	<taxonomy>
+																		<scientific_name>Aquilinae</scientific_name>
+																	</taxonomy>
+																	<clade>
+																		<taxonomy>
+																			<id provider="uniprot">8961</id>
+																			<code>AQUAU</code>
+																			<scientific_name>Aquila audax</scientific_name>
+																		</taxonomy>
+																	</clade>
+																	<clade>
+																		<taxonomy>
+																			<id provider="uniprot">8962</id>
+																			<code>AQUCH</code>
+																			<scientific_name>Aquila chrysaetos</scientific_name>
+																		</taxonomy>
+																	</clade>
+																	<clade>
+																		<taxonomy>
+																			<id provider="uniprot">193005</id>
+																			<code>AQUNI</code>
+																			<scientific_name>Aquila nipalensis</scientific_name>
+																		</taxonomy>
+																	</clade>
+																</clade>
+																<clade>
+																	<taxonomy>
+																		<scientific_name>Accipitrinae</scientific_name>
+																	</taxonomy>
+																	<clade>
+																		<taxonomy>
+																			<id provider="uniprot">8957</id>
+																			<code>ACCGE</code>
+																			<scientific_name>Accipiter gentilis</scientific_name>
+																		</taxonomy>
+																	</clade>
+																	<clade>
+																		<taxonomy>
+																			<id provider="uniprot">261198</id>
+																			<code>ACCCO</code>
+																			<scientific_name>Accipiter cooperii</scientific_name>
+																		</taxonomy>
+																	</clade>
+																	<clade>
+																		<taxonomy>
+																			<id provider="uniprot">56330</id>
+																			<code>ACCST</code>
+																			<scientific_name>Accipiter striatus</scientific_name>
+																		</taxonomy>
+																	</clade>
+																	<clade>
+																		<taxonomy>
+																			<id provider="uniprot">387801</id>
+																			<code>ACCNO</code>
+																			<scientific_name>Accipiter novaehollandiae</scientific_name>
+																		</taxonomy>
+																	</clade>
+																</clade>
+																<clade>
+																	<taxonomy>
+																		<scientific_name>Buteoninae</scientific_name>
+																	</taxonomy>
+																	<clade>
+																		<taxonomy>
+																			<id provider="uniprot">52644</id>
+																			<code>HALLE</code>
+																			<scientific_name>Haliaeetus leucocephalus</scientific_name>
+																		</taxonomy>
+																	</clade>
+																	<clade>
+																		<taxonomy>
+																			<scientific_name>Buteonini</scientific_name>
+																		</taxonomy>
+																		<clade>
+																			<taxonomy>
+																				<id provider="uniprot">156764</id>
+																				<code>ROSSO</code>
+																				<scientific_name>Rostrhamus sociabilis</scientific_name>
+																			</taxonomy>
+																		</clade>
+																		<clade>
+																			<taxonomy>
+																				<id provider="uniprot">2709556</id>
+																				<code>RUPMA</code>
+																				<scientific_name>Rupornis magnirostris</scientific_name>
+																			</taxonomy>
+																		</clade>
+																		<clade>
+																			<taxonomy>
+																				<scientific_name>Buteo</scientific_name>
+																			</taxonomy>
+																			<clade>
+																				<taxonomy>
+																					<id provider="uniprot">223441</id>
+																					<code>BUTRE</code>
+																					<scientific_name>Buteo regalis</scientific_name>
+																				</taxonomy>
+																			</clade>
+																			<clade>
+																				<taxonomy>
+																					<id provider="uniprot">156757</id>
+																					<code>BUTSW</code>
+																					<scientific_name>Buteo swainsoni</scientific_name>
+																				</taxonomy>
+																			</clade>
+																			<clade>
+																				<taxonomy>
+																					<id provider="uniprot">56263</id>
+																					<code>BUTJA</code>
+																					<scientific_name>Buteo jamaicensis</scientific_name>
+																				</taxonomy>
+																			</clade>
+																			<clade>
+																				<taxonomy>
+																					<id provider="uniprot">218281</id>
+																					<code>BUTPL</code>
+																					<scientific_name>Buteo platypterus</scientific_name>
+																				</taxonomy>
+																			</clade>
+																			<clade>
+																				<taxonomy>
+																					<id provider="uniprot">223855</id>
+																					<code>BUTSO</code>
+																					<scientific_name>Buteo solitarius</scientific_name>
+																				</taxonomy>
+																			</clade>
+																			<clade>
+																				<taxonomy>
+																					<id provider="uniprot">223475</id>
+																					<code>BUTLI</code>
+																					<scientific_name>Buteo lineatus</scientific_name>
+																				</taxonomy>
+																			</clade>
+																		</clade>
+																	</clade>
+																</clade>
+															</clade>
+															<clade>
+																<taxonomy>
+																	<scientific_name>Pandionidae</scientific_name>
+																</taxonomy>
+																<clade>
+																	<taxonomy>
+																		<id provider="uniprot">56262</id>
+																		<code>PANHA</code>
+																		<scientific_name>Pandion haliaetus</scientific_name>
+																	</taxonomy>
+																</clade>
+															</clade>
+														</clade>
+													</clade>
+													<clade>
+														<taxonomy>
+															<id provider="uniprot">30458</id>
+															<scientific_name>Strigiformes</scientific_name>
+														</taxonomy>
+														<clade>
+															<taxonomy>
+																<scientific_name>Tytonidae</scientific_name>
+															</taxonomy>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">507984</id>
+																	<code>9STRI</code>
+																	<scientific_name>Tyto castanops</scientific_name>
+																</taxonomy>
+															</clade>
+														</clade>
+														<clade>
+															<taxonomy>
+																<scientific_name>Strigidae</scientific_name>
+															</taxonomy>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">56265</id>
+																	<code>AEGAC</code>
+																	<scientific_name>Aegolius acadicus</scientific_name>
+																</taxonomy>
+															</clade>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">56267</id>
+																	<code>ASIFL</code>
+																	<scientific_name>Asio flammeus</scientific_name>
+																</taxonomy>
+															</clade>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">194338</id>
+																	<code>ATHCN</code>
+																	<scientific_name>Athene cunicularia</scientific_name>
+																</taxonomy>
+															</clade>
+															<clade>
+																<taxonomy>
+																	<scientific_name>Bubo</scientific_name>
+																</taxonomy>
+																<clade>
+																	<taxonomy>
+																		<id provider="uniprot">371907</id>
+																		<code>BUBSC</code>
+																		<scientific_name>Bubo scandiacus</scientific_name>
+																	</taxonomy>
+																</clade>
+																<clade>
+																	<taxonomy>
+																		<id provider="uniprot">56268</id>
+																		<code>BUBVI</code>
+																		<scientific_name>Bubo virginianus</scientific_name>
+																	</taxonomy>
+																</clade>
+															</clade>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">555335</id>
+																	<code>PSECL</code>
+																	<scientific_name>Pseudoscops clamator</scientific_name>
+																</taxonomy>
+															</clade>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">69940</id>
+																	<code>SURUL</code>
+																	<scientific_name>Surnia ulula</scientific_name>
+																</taxonomy>
+															</clade>
+														</clade>
+													</clade>
+													<clade>
+														<taxonomy>
+															<scientific_name>Coraciimorphae</scientific_name>
+														</taxonomy>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">57410</id>
+																<code>COLCL</code>
+																<scientific_name>Colius colius</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<scientific_name>Cavitaves</scientific_name>
+															</taxonomy>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">175830</id>
+																	<code>BUCBI</code>
+																	<scientific_name>Buceros bicornis</scientific_name>
+																</taxonomy>
+															</clade>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">372297</id>
+																	<code>MELLW</code>
+																	<scientific_name>Melanerpes lewis</scientific_name>
+																</taxonomy>
+															</clade>
+														</clade>
+													</clade>
+													<clade>
+														<taxonomy>
+															<scientific_name>Australaves</scientific_name>
+														</taxonomy>
+														<clade>
+															<taxonomy>
+																<scientific_name>Falconiformes</scientific_name>
+															</taxonomy>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">56350</id>
+																	<code>FALSP</code>
+																	<scientific_name>Falco sparverius</scientific_name>
+																</taxonomy>
+															</clade>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">279964</id>
+																	<code>FALME</code>
+																	<scientific_name>Falco mexicanus</scientific_name>
+																</taxonomy>
+															</clade>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">8951</id>
+																	<code>CARPF</code>
+																	<scientific_name>Caracara plancus</scientific_name>
+																</taxonomy>
+															</clade>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">56337</id>
+																	<code>MILCH</code>
+																	<scientific_name>Milvago chimachima</scientific_name>
+																</taxonomy>
+															</clade>	
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">9223</id>
+																<scientific_name>Psittaciformes</scientific_name>
+															</taxonomy>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">678581</id>
+																	<code>9PSIT</code>
+																	<scientific_name>Neophema chrysogaster</scientific_name>
+																</taxonomy>
+															</clade>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">33603</id>
+																<code>COCAM</code>
+																<scientific_name>Coccyzus americanus</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">9126</id>
+																<scientific_name>Passeriformes</scientific_name>
+															</taxonomy>
+															<clade>
+																<taxonomy>
+																	<scientific_name>Tyranni</scientific_name>
+																</taxonomy>
+																<clade>
+																	<taxonomy>
+																		<id provider="uniprot">209618</id>
+																		<code>EMPAL</code>
+																		<scientific_name>Empidonax alnorum</scientific_name>
+																	</taxonomy>
+																</clade>
+																<clade>
+																	<taxonomy>
+																		<id provider="uniprot">183521</id>
+																		<code>CONCP</code>
+																		<scientific_name>Contopus cooperi</scientific_name>
+																	</taxonomy>
+																</clade>
+															</clade>
+															<clade>
+																<taxonomy>
+																	<scientific_name>Passeri</scientific_name>
+																</taxonomy>
+																<clade>
+																	<taxonomy>
+																		<id provider="uniprot">481900</id>
+																		<code>MALCO</code>
+																		<scientific_name>Malurus coronatus</scientific_name>
+																	</taxonomy>
+																</clade>
+																<clade>
+																	<taxonomy>
+																		<scientific_name>Corvides</scientific_name>
+																	</taxonomy>
+																	<clade>
+																		<taxonomy>
+																			<id provider="uniprot">254645</id>
+																			<code>9CORV</code>
+																			<scientific_name>Prionops plumatus</scientific_name>
+																		</taxonomy>
+																	</clade>
+																	<clade>
+																		<taxonomy>
+																			<id provider="uniprot">237978</id>
+																			<code>POMNG</code>
+																			<scientific_name>Pomarea nigra</scientific_name>
+																		</taxonomy>
+																	</clade>
+																	<clade>
+																		<taxonomy>
+																			<id provider="uniprot">28713</id>
+																			<code>LANLU</code>
+																			<scientific_name>Lanius ludovicianus</scientific_name>
+																		</taxonomy>
+																	</clade>
+																	<clade>
+																		<taxonomy>
+																			<scientific_name>Corvidae</scientific_name>
+																		</taxonomy>
+																		<clade>
+																			<taxonomy>
+																				<scientific_name>Cyanocoracinae</scientific_name>
+																			</taxonomy>
+																			<clade>
+																				<taxonomy>
+																					<id provider="uniprot">39617</id>
+																					<code>APHCE</code>
+																					<scientific_name>Aphelocoma coerulescens</scientific_name>
+																				</taxonomy>
+																			</clade>
+																			<clade>
+																				<taxonomy>
+																					<id provider="uniprot">142466</id>
+																					<code>APHCA</code>
+																					<scientific_name>Aphelocoma californica</scientific_name>
+																				</taxonomy>
+																			</clade>
+																		</clade>
+																		<clade>
+																			<taxonomy>
+																				<id provider="uniprot">56781</id>
+																				<code>CORCX</code>
+																				<scientific_name>Corvus corax</scientific_name>
+																			</taxonomy>
+																		</clade>
+																	</clade>
+																</clade>
+																<clade>
+																	<taxonomy>
+																		<scientific_name>Passerides</scientific_name>
+																	</taxonomy>
+																	<clade>
+																		<taxonomy>
+																			<scientific_name>Sylviida</scientific_name>
+																		</taxonomy>
+																		<clade>
+																			<taxonomy>
+																				<scientific_name>Locustelloidea</scientific_name>
+																			</taxonomy>
+																			<clade>
+																				<taxonomy>
+																					<scientific_name>Acrocephalidae</scientific_name>
+																				</taxonomy>
+																				<clade>
+																					<taxonomy>
+																						<id provider="uniprot">52609</id>
+																						<code>ACRSC</code>
+																						<scientific_name>Acrocephalus schoenobaenus</scientific_name>
+																					</taxonomy>
+																				</clade>
+																				<clade>
+																					<taxonomy>
+																						<id provider="uniprot">68475</id>
+																						<code>ACRPA</code>
+																						<scientific_name>Acrocephalus palustris</scientific_name>
+																					</taxonomy>
+																				</clade>
+																				<clade>
+																					<taxonomy>
+																						<id provider="uniprot">68470</id>
+																						<code>9SYLV</code>
+																						<scientific_name>Acrocephalus melanopogon</scientific_name>
+																					</taxonomy>
+																				</clade>
+																			</clade>
+																			<clade>
+																				<taxonomy>
+																					<scientific_name>Hirundinidae</scientific_name>
+																				</taxonomy>
+																				<clade>
+																					<taxonomy>
+																						<id provider="uniprot">173220</id>
+																						<code>PROSU</code>
+																						<scientific_name>Progne subis</scientific_name>
+																					</taxonomy>
+																				</clade>
+																				<clade>
+																					<taxonomy>
+																						<id provider="uniprot">72873</id>
+																						<code>TACBI</code>
+																						<scientific_name>Tachycineta bicolor</scientific_name>
+																					</taxonomy>
+																				</clade>
+																				<clade>
+																					<taxonomy>
+																						<id provider="uniprot">88110</id>
+																						<code>RIPRI</code>
+																						<scientific_name>Riparia riparia</scientific_name>
+																					</taxonomy>
+																				</clade>
+																			</clade>
+																		</clade>
+																		<clade>
+																			<taxonomy>
+																				<id provider="uniprot">374623</id>
+																				<code>PHYPL</code>
+																				<scientific_name>Phyllastrephus placidus</scientific_name>
+																			</taxonomy>
+																		</clade>
+																	</clade>
+																	<clade>
+																		<taxonomy>
+																			<scientific_name>Muscicapida</scientific_name>
+																		</taxonomy>
+																		<clade>
+																			<taxonomy>
+																				<id provider="uniprot">161652</id>
+																				<code>PHANI</code>
+																				<scientific_name>Phainopepla nitens</scientific_name>
+																			</taxonomy>
+																		</clade>
+																		<clade>
+																			<taxonomy>
+																				<scientific_name>Muscicapoidea</scientific_name>
+																			</taxonomy>
+																			<clade>
+																				<taxonomy>
+																					<scientific_name>Turdidae</scientific_name>
+																				</taxonomy>
+																				<clade>
+																					<taxonomy>
+																						<id provider="uniprot">172420</id>
+																						<code>HYLMU</code>
+																						<scientific_name>Hylocichla mustelina</scientific_name>
+																					</taxonomy>
+																				</clade>
+																				<clade>
+																					<taxonomy>
+																						<scientific_name>Catharus</scientific_name>
+																					</taxonomy>
+																					<clade>
+																						<taxonomy>
+																							<id provider="uniprot">9185</id>
+																							<code>CATGU</code>
+																							<scientific_name>Catharus guttatus</scientific_name>
+																						</taxonomy>
+																					</clade>
+																					<clade>
+																						<taxonomy>
+																							<id provider="uniprot">159581</id>
+																							<code>CATFU</code>
+																							<scientific_name>Catharus fuscescens</scientific_name>
+																						</taxonomy>
+																					</clade>
+																					<clade>
+																						<taxonomy>
+																							<id provider="uniprot">91951</id>
+																							<code>CATUS</code>
+																							<scientific_name>Catharus ustulatus</scientific_name>
+																						</taxonomy>
+																					</clade>
+																					<clade>
+																						<taxonomy>
+																							<id provider="uniprot">159579</id>
+																							<code>CATMI</code>
+																							<scientific_name>Catharus minimus</scientific_name>
+																						</taxonomy>
+																					</clade>
+																				</clade>
+																			</clade>
+																			<clade>
+																				<taxonomy>
+																					<id provider="uniprot">245048</id>
+																					<code>9PASS</code>
+																					<scientific_name>Buphagus erythrorhynchus</scientific_name>
+																				</taxonomy>
+																			</clade>
+																			<clade>
+																				<taxonomy>
+																					<id provider="uniprot">451392</id>
+																					<code>BUPAF</code>
+																					<scientific_name>Buphagus africanus</scientific_name>
+																				</taxonomy>
+																			</clade>
+																			<clade>
+																				<taxonomy>
+																					<code>APLOP</code>
+																					<scientific_name>Aplonis opaca</scientific_name>
+																				</taxonomy>
+																			</clade>
+																			<clade>
+																				<taxonomy>
+																					<scientific_name>Mimidae</scientific_name>
+																				</taxonomy>
+																				<clade>
+																					<taxonomy>
+																						<id provider="uniprot">99873</id>
+																						<code>OREMN</code>
+																						<scientific_name>Oreoscoptes montanus</scientific_name>
+																					</taxonomy>
+																				</clade>
+																				<clade>
+																					<taxonomy>
+																						<id provider="uniprot">111981</id>
+																						<code>DUMCA</code>
+																						<scientific_name>Dumetella carolinensis</scientific_name>
+																					</taxonomy>
+																				</clade>
+																				<clade>
+																					<taxonomy>
+																						<id provider="uniprot">60713</id>
+																						<code>MIMPO</code>
+																						<scientific_name>Mimus polyglottos</scientific_name>
+																					</taxonomy>
+																				</clade>
+																			</clade>
+																		</clade>
+																		<clade>
+																			<taxonomy>
+																				<id provider="uniprot">74200</id>
+																				<code>THRLU</code>
+																				<scientific_name>Thryothorus ludovicianus</scientific_name>
+																			</taxonomy>
+																		</clade>
+																	</clade>
+																	<clade>
+																		<taxonomy>
+																			<scientific_name>Passerida</scientific_name>
+																		</taxonomy>
+																		<clade>
+																			<taxonomy>
+																				<id provider="uniprot">644770</id>
+																				<code>9PASE</code>
+																				<scientific_name>Taeniopygia castanotis</scientific_name>
+																			</taxonomy>
+																		</clade>
+																		<clade>
+																			<taxonomy>
+																				<id provider="uniprot">48849</id>
+																				<code>PASDO</code>
+																				<scientific_name>Passer domesticus</scientific_name>
+																			</taxonomy>
+																		</clade>
+																		<clade>
+																			<taxonomy>
+																				<id provider="uniprot">372285</id>
+																				<code>ANTSP</code>
+																				<scientific_name>Anthus spragueii</scientific_name>
+																			</taxonomy>
+																		</clade>
+																		<clade>
+																			<taxonomy>
+																				<scientific_name>Emberizoidea</scientific_name>
+																			</taxonomy>
+																			<clade>
+																				<taxonomy>
+																					<id provider="uniprot">194939</id>
+																					<code>RHYMC</code>
+																					<scientific_name>Rhynchophanes mccownii</scientific_name>
+																				</taxonomy>
+																			</clade>
+																			<clade>
+																				<taxonomy>
+																					<id provider="uniprot">125294</id>
+																					<code>9EMBE</code>
+																					<scientific_name>Emberiza spodocephala</scientific_name>
+																				</taxonomy>
+																			</clade>
+																			<clade>
+																				<taxonomy>
+																					<scientific_name>Cardinalidae</scientific_name>
+																				</taxonomy>
+																				<clade>
+																					<taxonomy>
+																						<id provider="uniprot">142471</id>
+																						<code>PASAF</code>
+																						<scientific_name>Passerina amoena</scientific_name>
+																					</taxonomy>
+																				</clade>
+																				<clade>
+																					<taxonomy>
+																						<id provider="uniprot">164630</id>
+																						<code>PASCF</code>
+																						<scientific_name>Passerina ciris</scientific_name>
+																					</taxonomy>
+																				</clade>
+																				<clade>
+																					<taxonomy>
+																						<id provider="uniprot">98964</id>
+																						<code>CARCD</code>
+																						<scientific_name>Cardinalis cardinalis</scientific_name>
+																					</taxonomy>
+																				</clade>
+																				<clade>
+																					<taxonomy>
+																						<id provider="uniprot">63520</id>
+																						<code>PIRLU</code>
+																						<scientific_name>Piranga ludoviciana</scientific_name>
+																					</taxonomy>
+																				</clade>
+																			</clade>
+																			<clade>
+																				<taxonomy>
+																					<scientific_name>Passerellidae</scientific_name>
+																				</taxonomy>
+																				<clade>
+																					<taxonomy>
+																						<scientific_name>Spizella</scientific_name>
+																					</taxonomy>
+																					<clade>
+																						<taxonomy>
+																							<id provider="uniprot">40209</id>
+																							<code>SPIBR</code>
+																							<scientific_name>Spizella breweri</scientific_name>
+																						</taxonomy>
+																					</clade>
+																					<clade>
+																						<taxonomy>
+																							<id provider="uniprot">40212</id>
+																							<code>SPIPU</code>
+																							<scientific_name>Spizella pusilla</scientific_name>
+																						</taxonomy>
+																					</clade>
+																				</clade>
+																				<clade>
+																					<taxonomy>
+																						<id provider="uniprot">2021860</id>
+																						<code>PEUCA</code>
+																						<scientific_name>Peucaea cassinii</scientific_name>
+																					</taxonomy>
+																				</clade>
+																				<clade>
+																					<taxonomy>
+																						<scientific_name>Ammodramus</scientific_name>
+																					</taxonomy>
+																					<clade>
+																						<taxonomy>
+																							<id provider="uniprot">371905</id>
+																							<code>AMMMA</code>
+																							<scientific_name>Ammodramus maritimus</scientific_name>
+																						</taxonomy>
+																					</clade>
+																					<clade>
+																						<taxonomy>
+																							<id provider="uniprot">135422</id>
+																							<code>AMMSA</code>
+																							<scientific_name>Ammodramus savannarum</scientific_name>
+																						</taxonomy>
+																					</clade>
+																				</clade>
+																				<clade>
+																					<taxonomy>
+																						<id provider="uniprot">2518006</id>
+																						<code>CENHE</code>
+																						<scientific_name>Centronyx henslowii</scientific_name>
+																					</taxonomy>
+																				</clade>																				
+																				<clade>
+																					<taxonomy>
+																						<id provider="uniprot">44394</id>
+																						<code>ZONAL</code>
+																						<scientific_name>Zonotrichia albicollis</scientific_name>
+																					</taxonomy>
+																				</clade>
+																				<clade>
+																					<taxonomy>
+																						<code>MELCA</code>
+																						<scientific_name>Melozone cabanisi</scientific_name>
+																					</taxonomy>
+																				</clade>
+																				<clade>
+																					<taxonomy>
+																						<id provider="uniprot">161625</id>
+																						<code>PIPER</code>
+																						<scientific_name>Pipilo erythrophthalmus</scientific_name>
+																					</taxonomy>
+																				</clade>
+																				<clade>
+																					<taxonomy>
+																						<id provider="uniprot">2502002</id>
+																						<code>ARTNE</code>
+																						<scientific_name>Artemisiospiza nevadensis</scientific_name>
+																					</taxonomy>
+																				</clade>
+																				<clade>
+																					<taxonomy>
+																						<id provider="uniprot">2857398</id>
+																						<code>AMMCA</code>
+																						<scientific_name>Ammospiza caudacuta</scientific_name>
+																					</taxonomy>
+																				</clade>
+																				<clade>
+																					<taxonomy>
+																						<id provider="uniprot">2857394</id>
+																						<code>AMMNE</code>
+																						<scientific_name>Ammospiza nelsoni</scientific_name>
+																					</taxonomy>
+																				</clade>
+																			</clade>
+																			<clade>
+																				<taxonomy>
+																					<scientific_name>Parulidae</scientific_name>
+																				</taxonomy>
+																				<clade>
+																					<taxonomy>
+																						<id provider="uniprot">182946</id>
+																						<code>SEIAU</code>
+																						<scientific_name>Seiurus aurocapilla</scientific_name>
+																					</taxonomy>
+																				</clade>
+																				<clade>
+																					<taxonomy>
+																						<id provider="uniprot">182947</id>
+																						<code>PARNO</code>
+																						<scientific_name>Parkesia noveboracensis</scientific_name>
+																					</taxonomy>
+																				</clade>
+																				<clade>
+																					<taxonomy>
+																						<scientific_name>Geothlypis</scientific_name>
+																					</taxonomy>
+																					<clade>
+																						<taxonomy>
+																							<id provider="uniprot">182909</id>
+																							<code>GEOFR</code>
+																							<scientific_name>Geothlypis formosa</scientific_name>
+																						</taxonomy>
+																					</clade>
+																					<clade>
+																						<taxonomy>
+																							<id provider="uniprot">245564</id>
+																							<code>GEOPH</code>
+																							<scientific_name>Geothlypis philadelphia</scientific_name>
+																						</taxonomy>
+																					</clade>
+																				</clade>
+																				<clade>
+																					<taxonomy>
+																						<scientific_name>Setophaga</scientific_name>
+																					</taxonomy>
+																					<clade>
+																						<taxonomy>
+																							<id provider="uniprot">563179</id>
+																							<code>SETCR</code>
+																							<scientific_name>Setophaga chrysoparia</scientific_name>
+																						</taxonomy>
+																					</clade>
+																					<clade>
+																						<taxonomy>
+																							<id provider="uniprot">92120</id>
+																							<code>SETDI</code>
+																							<scientific_name>Setophaga discolor</scientific_name>
+																						</taxonomy>
+																					</clade>
+																					<clade>
+																						<taxonomy>
+																							<id provider="uniprot">231568</id>
+																							<code>SETCS</code>
+																							<scientific_name>Setophaga castanea</scientific_name>
+																						</taxonomy>
+																					</clade>
+																					<clade>
+																						<taxonomy>
+																							<id provider="uniprot">1212470</id>
+																							<code>MUSST</code>
+																							<scientific_name>Setophaga striata</scientific_name>
+																						</taxonomy>
+																					</clade>
+																					<clade>
+																						<taxonomy>
+																							<id provider="uniprot">92122</id>
+																							<code>SETPE</code>
+																							<scientific_name>Setophaga pensylvanica</scientific_name>
+																						</taxonomy>
+																					</clade>
+																				</clade>
+																				<clade>
+																					<taxonomy>
+																						<id provider="uniprot">182910</id>
+																						<code>CARCN</code>
+																						<scientific_name>Cardellina canadensis</scientific_name>
+																					</taxonomy>
+																				</clade>
+																			</clade>
+																			<clade>
+																				<taxonomy>
+																					<scientific_name>Icteridae</scientific_name>
+																				</taxonomy>
+																				<clade>
+																					<taxonomy>
+																						<id provider="uniprot">84799</id>
+																						<code>DOLOR</code>
+																						<scientific_name>Dolichonyx oryzivorus</scientific_name>
+																					</taxonomy>
+																				</clade>
+																				<clade>
+																					<taxonomy>
+																						<scientific_name>Agelaius</scientific_name>
+																					</taxonomy>
+																					<clade>
+																						<taxonomy>
+																							<id provider="uniprot">84777</id>
+																							<code>AGEXA</code>
+																							<scientific_name>Agelaius xanthomus</scientific_name>
+																						</taxonomy>
+																					</clade>
+																					<clade>
+																						<taxonomy>
+																							<id provider="uniprot">9191</id>
+																							<code>AGETR</code>
+																							<scientific_name>Agelaius tricolor</scientific_name>
+																						</taxonomy>
+																					</clade>
+																				</clade>
+																				<clade>
+																					<taxonomy>
+																						<scientific_name>Sturnella</scientific_name>
+																					</taxonomy>
+																					<clade>
+																						<taxonomy>
+																							<id provider="uniprot">56329</id>
+																							<code>STUMA</code>
+																							<scientific_name>Sturnella magna</scientific_name>
+																						</taxonomy>
+																					</clade>
+																					<clade>
+																						<taxonomy>
+																							<id provider="uniprot">84785</id>
+																							<code>STUNE</code>
+																							<scientific_name>Sturnella neglecta</scientific_name>
+																						</taxonomy>
+																					</clade>
+																				</clade>
+																				<clade>
+																					<taxonomy>
+																						<id provider="uniprot">1131695</id>
+																						<code>9ICTE</code>
+																						<scientific_name>Icterus northropi</scientific_name>
+																					</taxonomy>
+																				</clade>
+																			</clade>
+																		</clade>
+																	</clade>
+																</clade>
+															</clade>
+														</clade>	
+													</clade>
+												</clade>
+											</clade>
+										</clade>
+									</clade>
+								</clade>
+							</clade>
+						</clade>
+						<clade>
+							<taxonomy>
+								<id provider="uniprot">40674</id>
+								<scientific_name>Mammalia</scientific_name>
+							</taxonomy>
+							<clade>
+								<taxonomy>
+									<id provider="uniprot">32525</id>
+									<scientific_name>Theria</scientific_name>
+								</taxonomy>
+								<clade>
+									<taxonomy>
+										<id provider="uniprot">9263</id>
+										<scientific_name>Metatheria</scientific_name>
+									</taxonomy>
+									<clade>
+										<taxonomy>
+											<id provider="uniprot">9268</id>
+											<code>DIDMR</code>
+											<scientific_name>Didelphis marsupialis</scientific_name>
+										</taxonomy>
+									</clade>
+									<clade>
+										<taxonomy>
+											<scientific_name>Dasyuromorphia</scientific_name>
+										</taxonomy>
+										<clade>
+											<taxonomy>
+												<id provider="uniprot">75753</id>
+												<code>SMIAI</code>
+												<scientific_name>Sminthopsis aitkeni</scientific_name>
+											</taxonomy>
+										</clade>
+										<clade>
+											<taxonomy>
+												<id provider="uniprot">9280</id>
+												<code>DASHA</code>
+												<scientific_name>Dasyurus hallucatus</scientific_name>
+											</taxonomy>
+										</clade>
+									</clade>
+									<clade>
+										<taxonomy>
+											<id provider="uniprot">38609</id>
+											<scientific_name>Diprotodontia</scientific_name>
+										</taxonomy>
+										<clade>
+											<taxonomy>
+												<id provider="uniprot">38618</id>
+												<code>GYMLE</code>
+												<scientific_name>Gymnobelideus leadbeateri</scientific_name>
+											</taxonomy>
+										</clade>
+									</clade>
+								</clade>
+								<clade>
+									<taxonomy>
+										<id provider="uniprot">9347</id>
+										<scientific_name>Eutheria</scientific_name>
+									</taxonomy>
+									<clade>
+										<taxonomy>
+											<id provider="uniprot">9348</id>
+											<scientific_name>Xenarthra</scientific_name>
+										</taxonomy>
+										<clade>
+											<taxonomy>
+												<id provider="uniprot">227087</id>
+												<code>9EUTH</code>
+												<scientific_name>Bradypus torquatus</scientific_name>
+											</taxonomy>
+										</clade>
+									</clade>
+									<clade>
+										<taxonomy>
+											<id provider="uniprot">1437010</id>
+											<scientific_name>Boreoeutheria</scientific_name>
+										</taxonomy>
+										<clade>
+											<taxonomy>
+												<id provider="uniprot">314145</id>
+												<scientific_name>Laurasiatheria</scientific_name>
+											</taxonomy>
+											<clade>
+												<taxonomy>
+													<id provider="uniprot">9397</id>
+													<scientific_name>Chiroptera</scientific_name>
+												</taxonomy>
+												<clade>
+													<taxonomy>
+														<id provider="uniprot">270786</id>
+														<code>9CHIR</code>
+														<scientific_name>Rhinonicteris aurantia</scientific_name>
+													</taxonomy>
+												</clade>
+												<clade>
+													<taxonomy>
+														<id provider="uniprot">30560</id>
+														<scientific_name>Microchiroptera</scientific_name>
+													</taxonomy>
+													<clade>
+														<taxonomy>
+															<scientific_name>Lasiurini</scientific_name>
+														</taxonomy>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">257879</id>
+																<code>AEOCI</code>
+																<scientific_name>Aeorestes cinereus</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">258930</id>
+																<code>LASBO</code>
+																<scientific_name>Lasiurus borealis</scientific_name>
+															</taxonomy>
+														</clade>
+													</clade>
+													<clade>
+														<taxonomy>
+															<scientific_name>Myotinae</scientific_name>
+														</taxonomy>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">385036</id>
+																<code>MYOSO</code>
+																<scientific_name>Myotis sodalis</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">258941</id>
+																<code>MYOSE</code>
+																<scientific_name>Myotis septentrionalis</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">59463</id>
+																<code>MYOLU</code>
+																<scientific_name>Myotis lucifugus</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">384635</id>
+																<code>MYOGR</code>
+																<scientific_name>Myotis grisescens</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">257884</id>
+																<code>MYOCI</code>
+																<scientific_name>Myotis ciliolabrum</scientific_name>
+															</taxonomy>
+														</clade>
+													</clade>
+													<clade>
+														<taxonomy>
+															<id provider="uniprot">29078</id>
+															<code>EPTFU</code>
+															<scientific_name>Eptesicus fuscus</scientific_name>
+														</taxonomy>
+													</clade>
+												</clade>
+											</clade>
+											<clade>
+												<taxonomy>
+													<id provider="uniprot">33554</id>
+													<scientific_name>Carnivora</scientific_name>
+												</taxonomy>
+												<clade>
+													<taxonomy>
+														<id provider="uniprot">379583</id>
+														<scientific_name>Feliformia</scientific_name>
+													</taxonomy>
+													<clade>
+														<taxonomy>
+															<id provider="uniprot">9685</id>
+															<code>FELCA</code>
+															<scientific_name>Felis catus</scientific_name>
+														</taxonomy>
+													</clade>
+												</clade>
+												<clade>
+													<taxonomy>
+														<id provider="uniprot">379584</id>
+														<scientific_name>Caniformia</scientific_name>
+													</taxonomy>
+													<clade>
+														<taxonomy>
+															<id provider="uniprot">9608</id>
+															<scientific_name>Canidae</scientific_name>
+														</taxonomy>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">9620</id>
+																<code>CERTH</code>
+																<scientific_name>Cerdocyon thous</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">9627</id>
+																<code>VULVU</code>
+																<scientific_name>Vulpes vulpes</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">9631</id>
+																<code>VULVE</code>
+																<scientific_name>Vulpes velox</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">2879911</id>
+																<code>VULMA</code>
+																<scientific_name>Vulpes macrotis arsipus</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">55040</id>
+																<code>UROCI</code>
+																<scientific_name>Urocyon cinereoargenteus</scientific_name>
+															</taxonomy>
+														</clade>
+													</clade>
+													<clade>
+														<taxonomy>
+															<scientific_name>Arctoidea</scientific_name>
+														</taxonomy>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">36723</id>
+																<code>MUSER</code>
+																<scientific_name>Mustela erminea</scientific_name>
+															</taxonomy>
+														</clade>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">55048</id>
+																<code>MUSFR</code>
+																<scientific_name>Mustela frenata</scientific_name>
+															</taxonomy>
+														</clade>
+													</clade>
+												</clade>
+											</clade>
+											<clade>
+												<taxonomy>
+													<id provider="uniprot">91561</id>
+													<scientific_name>Artiodactyla</scientific_name>
+												</taxonomy>
+												<clade>
+													<taxonomy>
+														<id provider="uniprot">9872</id>
+														<code>ODOHE</code>
+														<scientific_name>Odocoileus hemionus</scientific_name>
+													</taxonomy>
+												</clade>
+											</clade>
+										</clade>
+										<clade>
+											<taxonomy>
+												<id provider="uniprot">314146</id>
+												<scientific_name>Euarchontoglires</scientific_name>
+											</taxonomy>
+											<clade>
+												<taxonomy>
+													<id provider="uniprot">9443</id>
+													<scientific_name>Primates</scientific_name>
+												</taxonomy>
+												<clade>
+													<taxonomy>
+														<id provider="uniprot">376911</id>
+														<scientific_name>Strepsirrhini</scientific_name>
+													</taxonomy>
+													<clade>
+														<taxonomy>
+															<id provider="uniprot">376915</id>
+															<scientific_name>Lemuriformes</scientific_name>
+														</taxonomy>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">9463</id>
+																<code>OTOCR</code>
+																<scientific_name>Otolemur crassicaudatus</scientific_name>
+															</taxonomy>
+														</clade>
+													</clade>
+												</clade>
+												<clade>
+													<taxonomy>
+														<id provider="uniprot">376913</id>
+														<scientific_name>Haplorrhini</scientific_name>
+													</taxonomy>
+													<clade>
+														<taxonomy>
+															<id provider="uniprot">314293</id>
+															<scientific_name>Simiiformes</scientific_name>
+														</taxonomy>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">9479</id>
+																<scientific_name>Platyrrhini</scientific_name>
+															</taxonomy>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">290597</id>
+																	<code>SAGLE</code>
+																	<scientific_name>Saguinus leucopus</scientific_name>
+																</taxonomy>
+															</clade>
+														</clade>
+													</clade>
+												</clade>
+											</clade>
+											<clade>
+												<taxonomy>
+													<id provider="uniprot">314147</id>
+													<scientific_name>Glires</scientific_name>
+												</taxonomy>
+												<clade>
+													<taxonomy>
+														<id provider="uniprot">9975</id>
+														<scientific_name>Lagomorpha</scientific_name>
+													</taxonomy>
+													<clade>
+														<taxonomy>
+															<id provider="uniprot">63225</id>
+															<code>LEPTO</code>
+															<scientific_name>Lepus townsendii</scientific_name>
+														</taxonomy>
+													</clade>
+													<clade>
+														<taxonomy>
+															<id provider="uniprot">50378</id>
+															<code>SYLNU</code>
+															<scientific_name>Sylvilagus nuttallii</scientific_name>
+														</taxonomy>
+													</clade>
+													<clade>
+														<taxonomy>
+															<id provider="uniprot">30581</id>
+															<code>SYLAU</code>
+															<scientific_name>Sylvilagus audubonii</scientific_name>
+														</taxonomy>
+													</clade>
+												</clade>
+												<clade>
+													<taxonomy>
+														<id provider="uniprot">9989</id>
+														<scientific_name>Rodentia</scientific_name>
+													</taxonomy>
+													<clade>
+														<taxonomy>
+															<id provider="uniprot">33550</id>
+															<scientific_name>Hystricomorpha</scientific_name>
+														</taxonomy>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">34846</id>
+																<code>DASPU</code>
+																<scientific_name>Dasyprocta punctata</scientific_name>
+															</taxonomy>
+														</clade>
+													</clade>
+													<clade>
+														<taxonomy>
+															<id provider="uniprot">226870</id>
+															<code>9SCIU</code>
+															<scientific_name>Syntheosciurus granatensis</scientific_name>
+														</taxonomy>
+													</clade>
+													<clade>
+														<taxonomy>
+															<id provider="uniprot">1963758</id>
+															<scientific_name>Myomorpha</scientific_name>
+														</taxonomy>
+														<clade>
+															<taxonomy>
+																<id provider="uniprot">337687</id>
+																<scientific_name>Muroidea</scientific_name>
+															</taxonomy>
+															<clade>
+																<taxonomy>
+																	<id provider="uniprot">39107</id>
+																	<scientific_name>Murinae</scientific_name>
+																</taxonomy>
+																<clade>
+																	<taxonomy>
+																		<id provider="uniprot">10117</id>
+																		<code>RATRT</code>
+																		<scientific_name>Rattus rattus</scientific_name>
+																	</taxonomy>
+																</clade>
+															</clade>
+														</clade>
+													</clade>
+												</clade>
+											</clade>
+										</clade>
+									</clade>
+								</clade>
+							</clade>
+						</clade>
+					</clade>
+				</clade>
+			</clade>
+		</clade>
+	</phylogeny>
+	<taxonomies>
+		<taxonomy code="9AVES">
+			<color>0x40FF00</color>
+			<name>Cackling goose</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="9CHAR">
+			<color>0x40FF00</color>
+			<name>Red-necked avocet</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="9CHIR">
+			<color>0x40FF00</color>
+			<name>Orange leaf-nosed bat</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="9CORV">
+			<color>0x40FF00</color>
+			<name>White helmetshrike</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="9EMBE">
+			<color>0x40FF00</color>
+			<name>Black-faced bunting</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="9EUTH">
+			<color>0x40FF00</color>
+			<name>Maned three-toed sloth</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="9ICTE">
+			<color>0x40FF00</color>
+			<name>Bahama oriole</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="9PASE">
+			<color>0x40FF00</color>
+			<name>Chestnut-eared finch</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="9PASS">
+			<color>0x40FF00</color>
+			<name>Red-billed oxpecker</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="9PSIT">
+			<color>0x40FF00</color>
+			<name>Orange-bellied parrot</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="9SAUR">
+			<color>0x40FF00</color>
+			<name>Bothrops</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="9SCIU">
+			<color>0x40FF00</color>
+			<name>Red-tailed squirrel</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="9STRI">
+			<color>0x40FF00</color>
+			<name>Tasmanian masked-owl</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="9SYLV">
+			<color>0x40FF00</color>
+			<name>Moustached warbler</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="ACCCO">
+			<color>0x40FF00</color>
+			<name>Cooper's hawk</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="ACCGE">
+			<color>0x40FF00</color>
+			<name>Northern goshawk</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="ACCNO">
+			<color>0x40FF00</color>
+			<name>Grey goshawk</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="ACCST">
+			<color>0x40FF00</color>
+			<name>Sharp-shinned hawk</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="ACRPA">
+			<color>0x40FF00</color>
+			<name>Marsh warbler</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="ACRSC">
+			<color>0x40FF00</color>
+			<name>Sedge warbler</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="AEGAC">
+			<color>0x40FF00</color>
+			<name>Northern saw-whet owl</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="AEOCI">
+			<color>0x40FF00</color>
+			<name>North American hoary bat</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="AGETR">
+			<color>0x40FF00</color>
+			<name>Tricolored blackbird</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="AGEXA">
+			<color>0x40FF00</color>
+			<name>Yellow-shouldered blackbird</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="AMMCA">
+			<color>0x40FF00</color>
+			<name>Saltmarsh sparrow</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="AMMMA">
+			<color>0x40FF00</color>
+			<name>Seaside sparrow</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="AMMNE">
+			<color>0x40FF00</color>
+			<name>Nelson's sparrow</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="AMMSA">
+			<color>0x40FF00</color>
+			<name>Grasshopper sparrow</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="ANAAC">
+			<color>0x40FF00</color>
+			<name>Northern pintail</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="ANACS">
+			<color>0x40FF00</color>
+			<name>Chestnut teal</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="ANAPP">
+			<color>0x40FF00</color>
+			<name>Mallard</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="ANAPU">
+			<color>0x40FF00</color>
+			<name>Red-spotted toad</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="ANASP">
+			<color>0x40FF00</color>
+			<name>Mormon cricket</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="ANSAL">
+			<color>0x40FF00</color>
+			<name>Greater white-fronted goose</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="ANSCA">
+			<color>0x40FF00</color>
+			<name>Emperor goose</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="ANTCN">
+			<color>0x40FF00</color>
+			<name>Sandhill crane</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="ANTSP">
+			<color>0x40FF00</color>
+			<name>Sprague's pipit</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="ANTVO">
+			<color>0x40FF00</color>
+			<name>Eastern whip-poor-will</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="APHCA">
+			<color>0x40FF00</color>
+			<name>California scrub-jay</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="APHCE">
+			<color>0x40FF00</color>
+			<name>Florida scrub-jay</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="APLOP">
+			<color>0x40FF00</color>
+			<name>Micronesian starling</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="AQUAU">
+			<color>0x40FF00</color>
+			<name>Wedge-tailed eagle</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="AQUCH">
+			<color>0x40FF00</color>
+			<name>Golden eagle</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="AQUNI">
+			<color>0x40FF00</color>
+			<name>Steppe eagle</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="ARTNE">
+			<color>0x40FF00</color>
+			<name>Sagebrush sparrow</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="ASIFL">
+			<color>0x40FF00</color>
+			<name>Short-eared owl</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="ATHCN">
+			<color>0x40FF00</color>
+			<name>Burrowing owl</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="BOIIR">
+			<color>0x40FF00</color>
+			<name>Brown tree snake</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="BRABN">
+			<color>0x40FF00</color>
+			<name>Brant</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="BUBID">
+			<color>0x40FF00</color>
+			<name>Cattle egret</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="BUBSC">
+			<color>0x40FF00</color>
+			<name>Snowy owl</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="BUBVI">
+			<color>0x40FF00</color>
+			<name>Great horned owl</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="BUCBI">
+			<color>0x40FF00</color>
+			<name>Great hornbill</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="BUPAF">
+			<color>0x40FF00</color>
+			<name>Yellow-billed oxpecker</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="BUTJA">
+			<color>0x40FF00</color>
+			<name>Red-tailed hawk</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="BUTLI">
+			<color>0x40FF00</color>
+			<name>Red-shouldered hawk</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="BUTPL">
+			<color>0x40FF00</color>
+			<name>Broad-winged hawk</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="BUTRE">
+			<color>0x40FF00</color>
+			<name>Ferruginous hawk</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="BUTSO">
+			<color>0x40FF00</color>
+			<name>Hawaiian hawk</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="BUTSW">
+			<color>0x40FF00</color>
+			<name>Swainson's hawk</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="CALAL">
+			<color>0x40FF00</color>
+			<name>Dunlin</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="CALCT">
+			<color>0x40FF00</color>
+			<name>Red knot</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="CALMB">
+			<color>0x40FF00</color>
+			<name>Least sandpiper</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="CALPG">
+			<color>0x40FF00</color>
+			<name>Ruff</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="CALPU">
+			<color>0x40FF00</color>
+			<name>Semipalmated sandpiper</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="CALSU">
+			<color>0x40FF00</color>
+			<name>Scaled quail</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="CARCD">
+			<color>0x40FF00</color>
+			<name>Northern cardinal</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="CARCN">
+			<color>0x40FF00</color>
+			<name>Canada warbler</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="CARPF">
+			<color>0x40FF00</color>
+			<name>Crested caracara</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="CATAU">
+			<color>0x40FF00</color>
+			<name>Turkey vulture</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="CATFU">
+			<color>0x40FF00</color>
+			<name>Veery</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="CATGU">
+			<color>0x40FF00</color>
+			<name>Hermit thrush</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="CATMI">
+			<color>0x40FF00</color>
+			<name>Gray-cheeked thrush</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="CATUS">
+			<color>0x40FF00</color>
+			<name>Swainson's thrush</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="CENHE">
+			<color>0x40FF00</color>
+			<name>Henslow's sparrow</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="CENUR">
+			<color>0x40FF00</color>
+			<name>Greater sage-grouse</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="CERTH">
+			<color>0x40FF00</color>
+			<name>Crab-eating fox</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="CHAAL">
+			<color>0x40FF00</color>
+			<name>Kentish plover</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="CHAPE">
+			<color>0x40FF00</color>
+			<name>Chimney swift</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="CHOUN">
+			<color>0x40FF00</color>
+			<name>Hook-billed kite</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="CHRPI">
+			<color>0x40FF00</color>
+			<name>Western painted turtle</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="CLEGU">
+			<color>0x40FF00</color>
+			<name>Spotted turtle</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="COCAM">
+			<color>0x40FF00</color>
+			<name>Yellow-billed cuckoo</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="COLCL">
+			<color>0x40FF00</color>
+			<name>White-backed mousebird</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="COLVI">
+			<color>0x40FF00</color>
+			<name>Northern bobwhite</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="CONCP">
+			<color>0x40FF00</color>
+			<name>Olive-sided flycatcher</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="CORAR">
+			<color>0x40FF00</color>
+			<name>Black vulture</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="CORCX">
+			<color>0x40FF00</color>
+			<name>Common raven</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="DASHA">
+			<color>0x40FF00</color>
+			<name>Northern quoll</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="DASPU">
+			<color>0x40FF00</color>
+			<name>Central American agouti</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="DENAR">
+			<color>0x40FF00</color>
+			<name>West Indian whistling-duck</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="DIDMR">
+			<color>0x40FF00</color>
+			<name>Southern opossum</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="DOLOR">
+			<color>0x40FF00</color>
+			<name>Bobolink</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="DRYCO">
+			<color>0x40FF00</color>
+			<name>Eastern indigo snake</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="DUMCA">
+			<color>0x40FF00</color>
+			<name>Gray catbird</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="EGRRU">
+			<color>0x40FF00</color>
+			<name>Reddish egret</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="EGRTH">
+			<color>0x40FF00</color>
+			<name>Snowy egret</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="ELAFO">
+			<color>0x40FF00</color>
+			<name>Swallow-tailed kite</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="ELALE">
+			<color>0x40FF00</color>
+			<name>White-tailed kite</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="EMPAL">
+			<color>0x40FF00</color>
+			<name>Alder flycatcher</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="EPICL">
+			<color>0x40FF00</color>
+			<name>Natterjack toad</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="EPTFU">
+			<color>0x40FF00</color>
+			<name>Big brown bat</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="EUTAQ">
+			<color>0x40FF00</color>
+			<name>White-tipped sicklebill</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="FALME">
+			<color>0x40FF00</color>
+			<name>Prairie falcon</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="FALSP">
+			<color>0x40FF00</color>
+			<name>American kestrel</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="FELCA">
+			<color>0x40FF00</color>
+			<name>Cat</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="GAMSI">
+			<color>0x40FF00</color>
+			<name>San Joaquin leopard lizard</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="GEOFR">
+			<color>0x40FF00</color>
+			<name>Kentucky warbler</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="GEOPH">
+			<color>0x40FF00</color>
+			<name>Mourning warbler</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="GLYIN">
+			<color>0x40FF00</color>
+			<name>Wood turtle</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="GLYMU">
+			<color>0x40FF00</color>
+			<name>Bog turtle</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="GOPPO">
+			<color>0x40FF00</color>
+			<name>Gopher tortoise</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="GYMCA">
+			<color>0x40FF00</color>
+			<name>California condor</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="GYMLE">
+			<color>0x40FF00</color>
+			<name>Leadbeater's possum</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="HAEPI">
+			<color>0x40FF00</color>
+			<name>American oystercatcher</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="HALLE">
+			<color>0x40FF00</color>
+			<name>Bald eagle</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="HYLMU">
+			<color>0x40FF00</color>
+			<name>Wood thrush</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="LAGLG">
+			<color>0x40FF00</color>
+			<name>Willow ptarmigan</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="LAMNA">
+			<color>0x40FF00</color>
+			<name>Porbeagle shark</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="LANLU">
+			<color>0x40FF00</color>
+			<name>Loggerhead shrike</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="LARDE">
+			<color>0x40FF00</color>
+			<name>Ring-billed gull</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="LARMA">
+			<color>0x40FF00</color>
+			<name>Great black-backed gull</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="LARPI">
+			<color>0x40FF00</color>
+			<name>Franklin's gull</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="LASBO">
+			<color>0x40FF00</color>
+			<name>Eastern red bat</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="LATJM">
+			<color>0x40FF00</color>
+			<name>Black rail</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="LEPTO">
+			<color>0x40FF00</color>
+			<name>White-tailed jackrabbit</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="LIMGR">
+			<color>0x40FF00</color>
+			<name>Short-billed dowitcher</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="LIMSC">
+			<color>0x40FF00</color>
+			<name>Long-billed dowitcher</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="MALCO">
+			<color>0x40FF00</color>
+			<name>Purple-crowned fairywren</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="MALTE">
+			<color>0x40FF00</color>
+			<name>Diamondback terrapin</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="MARAE">
+			<color>0x40FF00</color>
+			<name>American wigeon</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="MELCA">
+			<color>0x40FF00</color>
+			<name>Cabani's ground sparrow</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="MELGA">
+			<color>0x40FF00</color>
+			<name>Wild turkey</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="MELLW">
+			<color>0x40FF00</color>
+			<name>Lewis' woodpecker</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="MILCH">
+			<color>0x40FF00</color>
+			<name>Yellow-headed caracara</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="MIMPO">
+			<color>0x40FF00</color>
+			<name>Northern mockingbird</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="MYOCI">
+			<color>0x40FF00</color>
+			<name>Western small-footed bat</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="MYOGR">
+			<color>0x40FF00</color>
+			<name>Gray myotis</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="MUSER">
+			<color>0x40FF00</color>
+			<name>Short-tailed weasel</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="MYOLU">
+			<color>0x40FF00</color>
+			<name>Little brown bat</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="MYOSE">
+			<color>0x40FF00</color>
+			<name>Northern long-eared myotis</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="MYOSO">
+			<color>0x40FF00</color>
+			<name>Indiana bat</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="MUSFR">
+			<color>0x40FF00</color>
+			<name>Long-tailed weasel</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="MUSST">
+			<color>0x40FF00</color>
+			<name>Blackpoll warbler</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="NUMAM">
+			<color>0x40FF00</color>
+			<name>Long-billed curlew</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="ODOHE">
+			<color>0x40FF00</color>
+			<name>Black-tailed deer</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="OREMN">
+			<color>0x40FF00</color>
+			<name>Sage thrasher</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="ORTCO">
+			<color>0x40FF00</color>
+			<name>Colombian chachalaca</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="OTOCR">
+			<color>0x40FF00</color>
+			<name>Brown greater galago</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="PANHA">
+			<color>0x40FF00</color>
+			<name>Osprey</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="PANSP">
+			<color>0x40FF00</color>
+			<name>Gray ratsnake</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="PARNO">
+			<color>0x40FF00</color>
+			<name>Northern waterthrush</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="PASAF">
+			<color>0x40FF00</color>
+			<name>Lazuli bunting</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="PASCF">
+			<color>0x40FF00</color>
+			<name>Painted bunting</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="PASDO">
+			<color>0x40FF00</color>
+			<name>House sparrow</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="PELER">
+			<color>0x40FF00</color>
+			<name>American white pelican</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="PELOC">
+			<color>0x40FF00</color>
+			<name>Brown pelican</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="PEUCA">
+			<color>0x40FF00</color>
+			<name>Cassin's sparrow</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="PHAAI">
+			<color>0x40FF00</color>
+			<name>Double-crested cormorant</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="PHALP">
+			<color>0x40FF00</color>
+			<name>White-tailed tropicbird</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="PHANI">
+			<color>0x40FF00</color>
+			<name>Phainopepla</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="PHIIN">
+			<color>0x40FF00</color>
+			<name>Bare-faced ibis</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="PHORS">
+			<color>0x40FF00</color>
+			<name>Greater flamingo</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="PHRCO">
+			<color>0x40FF00</color>
+			<name>Texas horned lizard</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="PHYPL">
+			<color>0x40FF00</color>
+			<name>Placid greenbul</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="PIPER">
+			<color>0x40FF00</color>
+			<name>Eastern towhee</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="PIRLU">
+			<color>0x40FF00</color>
+			<name>Western tanager</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="PLAAJ">
+			<color>0x40FF00</color>
+			<name>Roseate spoonbill</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="PLECB">
+			<color>0x40FF00</color>
+			<name>White-faced ibis</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="POMNG">
+			<color>0x40FF00</color>
+			<name>Tahiti flycatcher</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="PROSU">
+			<color>0x40FF00</color>
+			<name>Purple martin</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="PSECL">
+			<color>0x40FF00</color>
+			<name>Striped owl</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="PTEER">
+			<color>0x40FF00</color>
+			<name>Erckel's francolin</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="PYGAD">
+			<color>0x40FF00</color>
+			<name>Adelie penguin</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="RATRT">
+			<color>0x40FF00</color>
+			<name>Black rat</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="RHYMC">
+			<color>0x40FF00</color>
+			<name>Thick-billed longspur</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="RIPRI">
+			<color>0x40FF00</color>
+			<name>Bank swallow</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="ROSSO">
+			<color>0x40FF00</color>
+			<name>Snail kite</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="RUPMA">
+			<color>0x40FF00</color>
+			<name>Roadside hawk</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="SAGLE">
+			<color>0x40FF00</color>
+			<name>Silvery-brown bare-face tamarin</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="SCOMI">
+			<color>0x40FF00</color>
+			<name>American woodcock</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="SEIAU">
+			<color>0x40FF00</color>
+			<name>Ovenbird</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="SETCR">
+			<color>0x40FF00</color>
+			<name>Golden-cheeked warbler</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="SETCS">
+			<color>0x40FF00</color>
+			<name>Bay-breasted warbler</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="SETDI">
+			<color>0x40FF00</color>
+			<name>Prairie warbler</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="SETPE">
+			<color>0x40FF00</color>
+			<name>Chestnut-sided warbler</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="SMIAI">
+			<color>0x40FF00</color>
+			<name>Kangaroo island dunnart</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="SPADI">
+			<color>0x40FF00</color>
+			<name>Blue-winged teal</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="SPIBR">
+			<color>0x40FF00</color>
+			<name>Brewer's sparrow</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="SPIPU">
+			<color>0x40FF00</color>
+			<name>Field sparrow</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="STEAI">
+			<color>0x40FF00</color>
+			<name>Least tern</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="STEHI">
+			<color>0x40FF00</color>
+			<name>Common tern</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="STUMA">
+			<color>0x40FF00</color>
+			<name>Eastern meadowlark</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="STUNE">
+			<color>0x40FF00</color>
+			<name>Western meadowlark</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="SULSL">
+			<color>0x40FF00</color>
+			<name>Red-footed booby</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="SURUL">
+			<color>0x40FF00</color>
+			<name>Northern hawk-owl</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="SYLAU">
+			<color>0x40FF00</color>
+			<name>Desert cottontail</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="SYLNU">
+			<color>0x40FF00</color>
+			<name>Mountain cottontail</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="TACBI">
+			<color>0x40FF00</color>
+			<name>Tree swallow</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="TERCA">
+			<color>0x40FF00</color>
+			<name>Eastern box turtle</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="TEROR">
+			<color>0x40FF00</color>
+			<name>Ornate box turtle</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="THACA">
+			<color>0x40FF00</color>
+			<name>Shy albatross</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="THAMX">
+			<color>0x40FF00</color>
+			<name>Royal tern</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="THRLU">
+			<color>0x40FF00</color>
+			<name>Carolina wren</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="TRIFA">
+			<color>0x40FF00</color>
+			<name>Lesser yellowlegs</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="TRISL">
+			<color>0x40FF00</color>
+			<name>Solitary sandpiper</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="TYMPH">
+			<color>0x40FF00</color>
+			<name>Sharp-tailed grouse</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		 <taxonomy code="UROCI">
+			<color>0x40FF00</color>
+			<name>Gray fox</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="VESMA">
+			<color>0x40FF00</color>
+			<name>Asian giant hornet</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="VULMA">
+			<color>0x40FF00</color>
+			<name>Kit fox</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="VULVE">
+			<color>0x40FF00</color>
+			<name>Swift fox</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="VULVU">
+			<color>0x40FF00</color>
+			<name>Red fox</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+		<taxonomy code="ZONAL">
+			<color>0x40FF00</color>
+			<name>White-throated sparrow</name>
+			<url>https://www.ncbi.nlm.nih.gov/</url>
+		</taxonomy>
+	  </taxonomies>
+</phyloxml>

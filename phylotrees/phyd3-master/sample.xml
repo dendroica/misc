@@ -1,0 +1,18 @@
+<phyloxml xmlns="http://www.phyloxml.org">
+  <phylogeny rooted="true" rerootable="false">
+  	<name>(Partial) species phylogeny</name>
+    <clade>
+      <name>Eugnathostomata</name>
+        <clade>
+        	<name>Chondrichthyes</name>
+        	<taxonomy>
+			<scientific_name>Chondrichthyes</scientific_name>
+		</taxonomy>
+	</clade>
+        <clade>
+        <name>Euteleostomi</name>
+        </clade>
+    </clade>
+  </phylogeny>
+</phyloxml>
+      

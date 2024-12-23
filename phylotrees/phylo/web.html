@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+import { makeCompatTable, phyloxml } from "@vibbioinfocore/phyd3-parser-compat";
+import { build } from "@vibbioinfocore/phyd3";
+
+const xml = "<phyloxml><phylogeny rooted='true'><clade><name>A</name></clade></phylogeny></phyloxml>";
+
+const parser = new DOMParser();
+const doc = parser.parseFromString(xml, "text/xml");
+const svg = build(makeCompatTable(phyloxml.parse(doc)));
+svg.node()
+</script>
+</body>
+</html>
